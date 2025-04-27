@@ -4,11 +4,11 @@ This repository uses the simulated data for Assignment #2 from the public reposi
 
 Variables in the dataset (my interpretation):
 
-  -smoke   : binary variable indicating that the patient is a smoker (1) or non-smoker (0)
-  -female  : binary variable indicating that the patient is female (1) or male (0)
-  -age     : continuous variable indicating patient's age in years 
-  -cardiac : binary variable indicating any cardiac event (1) and no event (0)
-  -cost    : continuous variable indicating cost of hospitalization in dollars 
+  - smoke: binary variable indicating that the patient is a smoker (1) or non-smoker (0)
+  - female: binary variable indicating that the patient is female (1) or male (0)
+  - age: continuous variable indicating patient's age in years 
+  - cardiac: binary variable indicating any cardiac event (1) and no event (0)
+  - cost: continuous variable indicating cost of hospitalization in dollars 
 
 Below is a description of the repository structure:
 
